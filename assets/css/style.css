@@ -1,11 +1,40 @@
 /* import font*/
   @import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Cinzel+Decorative&family=Cinzel:wght@500&family=IM+Fell+French+Canon+SC&family=Imbue:wght@200&family=Libre+Baskerville:ital@1&family=Playfair+Display:ital@1&family=Roboto+Slab:wght@300&family=Tangerine:wght@700&display=swap');
 body {
-    background-color: black;
+    background-color: #3fa706;
 }
-.bg-color {
-    background-color: red;
+
+.bg-color-green {
+    background-color: #0a272d;
 }
-.text-color {
-    background-color: gold;
+
+.text-yellow {
+    color: #1c1427;
+}
+
+.nav-item {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #f8e9c6;
+}
+
+.navbar {
+    text-transform: uppercase;
+    font-family: 'Aboreto', sans-serif;
+    font-weight: 700;
+}
+
+.navbar-logo {
+    height: 200px;
+    width: 200px;
+}
+
+.dropdown-item.active,
+.dropdown-item:active {
+    color: #fff;
+    text-decoration: none;
+    background-color: #6b7b7e;
 }
