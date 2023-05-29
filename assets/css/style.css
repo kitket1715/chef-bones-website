@@ -1,0 +1,11 @@
+/* import font*/
+  @import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Cinzel+Decorative&family=Cinzel:wght@500&family=IM+Fell+French+Canon+SC&family=Imbue:wght@200&family=Libre+Baskerville:ital@1&family=Playfair+Display:ital@1&family=Roboto+Slab:wght@300&family=Tangerine:wght@700&display=swap');
+body {
+    background-color: black;
+}
+.bg-color {
+    background-color: red;
+}
+.text-color {
+    background-color: gold;
+}
